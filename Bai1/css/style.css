@@ -1,0 +1,12 @@
+.body{
+    width: auto;
+    height: auto;
+}
+.head{
+    padding-top: 20px;
+    padding-left: 500px ;
+   
+}
+.c1, .c2{
+    text-align: center;
+}
